@@ -2,6 +2,8 @@
 
 Welcome to the VRINDA Data Analysis Project repository! This project aims to provide insights into sales and orders data, focusing on various aspects such as sales comparison, order trends, customer demographics, and sales channel analysis. Below is an overview of the key analyses performed and findings derived from the dataset.
 
+<img width="632" alt="vrinda excel project" src="https://github.com/Ritik261/vrindadataanalysis/assets/105224422/b0b0275d-6cdb-46db-b06d-c58131daf5b9">
+
 ## Project Overview
 
 1. **Sales and Orders Comparison:**
